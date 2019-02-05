@@ -1,0 +1,65 @@
+#top-hero {
+  background-image: url('hero-background.jpg');
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#top-hero-title {
+  background-color: black;
+  color: white;
+  padding: 5px;
+}
+
+#top-hero-subtitle {
+  background-color: white;
+  color: black;
+  font-size: 30pt;
+  padding: 5px;
+}
+
+#whos-a-fit {
+  background-color: #13294B;
+  color: white;
+}
+
+#what-i-do {
+  background-color: #53BFC6;
+  color: white;
+}
+
+#land-jobs {
+  background-color: #F8E425;
+}
+
+.is-avi-title {
+  color: white;
+}
+
+.is-teal-highlight {
+  color: #53BFC6;
+  font-weight: bold;
+}
+
+.grad-quote {
+  margin-top: 5%;
+  font-size: 200%;
+}
+
+@media only screen and (min-width: 769px) {
+  .reverse-row-order {
+    display: flex;
+    flex-direction: row-reverse;
+  }
+  .reverse-header {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+  .is-do-circle {
+    max-width: 30%;
+  }
+  .is-do-middle-circle {
+    max-width: 50%;
+  }
+}
