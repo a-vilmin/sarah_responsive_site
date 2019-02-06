@@ -4,7 +4,6 @@
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-<<<<<<< HEAD
   background-position: center;
 }
 
@@ -56,21 +55,6 @@
 
 .partner-logo{
   padding-bottom: 30px;
-=======
-}
-
-#top-hero-title {
-  background-color: black;
-  color: white;
-  padding: 5px;
-}
-
-#top-hero-subtitle {
-  background-color: white;
-  color: black;
-  font-size: 30pt;
-  padding: 5px;
->>>>>>> 67b63b9ed13ecaddc3b9372f73a8524b3cfce2fe
 }
 
 #whos-a-fit {
@@ -96,7 +80,6 @@
   font-weight: bold;
 }
 
-<<<<<<< HEAD
 .grad-quote-2 {
   margin-top: 5%;
   font-size: 200%;
@@ -109,11 +92,6 @@
   font-size: 200%;
   text-align:left;
   line-height: normal;
-=======
-.grad-quote {
-  margin-top: 5%;
-  font-size: 200%;
->>>>>>> 67b63b9ed13ecaddc3b9372f73a8524b3cfce2fe
 }
 
 @media only screen and (min-width: 769px) {
@@ -131,32 +109,29 @@
   .is-do-middle-circle {
     max-width: 50%;
   }
-<<<<<<< HEAD
 	.bubble-head{
 	margin-right: -50%;
 	}
 	.bubble-head-lg{
 		margin-right:-100%
 	}
-	
+
 	.bubble-head-xlg{
 		margin-right:-150%
 	}
-	
+
 	.bubble-head-sm{
 		margin-right: -50%;
 	}
-	
+
 	.section-header{
 		text-decoration: underline;
 }
-	
+
 	#top-hero-title{
 		font-size: 40pt;
 	}
 	#top-hero-subtitle{
 		font-size: 60pt;
 	}
-=======
->>>>>>> 67b63b9ed13ecaddc3b9372f73a8524b3cfce2fe
 }
