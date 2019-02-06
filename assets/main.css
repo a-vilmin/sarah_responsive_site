@@ -16,7 +16,6 @@
   font-weight: 200;
 }
 
-
 #top-hero-subtitle {
   background-color: white;
   color: #13294B;
@@ -26,8 +25,7 @@
   font-weight: bold;
 }
 
-
-.text-above-button{
+.text-above-button {
   font-family: adobe-garamond-pro, serif;
   font-weight: 400;
   font-style: normal;
@@ -35,25 +33,25 @@
   line-height: normal;
 }
 
-.has-text-centered{
+.has-text-centered {
   font-family: adobe-garamond-pro, serif;
   font-weight: 400;
   font-style: normal;
   line-height: normal;
 }
 
-.section-lead-in{
+.section-lead-in {
   font-family: adobe-garamond-pro, serif;
   font-weight: 400;
   font-style: normal;
   width: 50%;
 }
 
-.position-title{
- font-family: 'Montserrat', sans-serif;
+.position-title {
+  font-family: 'Montserrat', sans-serif;
 }
 
-.partner-logo{
+.partner-logo {
   padding-bottom: 30px;
 }
 
@@ -90,7 +88,7 @@
 .grad-quote-1 {
   margin-top: 5%;
   font-size: 200%;
-  text-align:left;
+  text-align: left;
   line-height: normal;
 }
 
@@ -99,39 +97,45 @@
     display: flex;
     flex-direction: row-reverse;
   }
+
   .reverse-header {
     display: flex;
     flex-direction: column-reverse;
   }
+
   .is-do-circle {
     max-width: 30%;
   }
+
   .is-do-middle-circle {
     max-width: 50%;
   }
-	.bubble-head{
-	margin-right: -50%;
-	}
-	.bubble-head-lg{
-		margin-right:-100%
-	}
 
-	.bubble-head-xlg{
-		margin-right:-150%
-	}
+  .bubble-head {
+    margin-right: -50%;
+  }
 
-	.bubble-head-sm{
-		margin-right: -50%;
-	}
+  .bubble-head-lg {
+    margin-right: -100%;
+  }
 
-	.section-header{
-		text-decoration: underline;
-}
+  .bubble-head-xlg {
+    margin-right: -150%;
+  }
 
-	#top-hero-title{
-		font-size: 40pt;
-	}
-	#top-hero-subtitle{
-		font-size: 60pt;
-	}
+  .bubble-head-sm {
+    margin-right: -50%;
+  }
+
+  .section-header {
+    text-decoration: underline;
+  }
+
+  #top-hero-title {
+    font-size: 40pt;
+  }
+
+  #top-hero-subtitle {
+    font-size: 60pt;
+  }
 }
